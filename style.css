@@ -1,0 +1,193 @@
+body {
+  font-family: Times, serif;
+  background-color: beige;
+  margin: 40px;
+  padding: 20px;
+    
+}
+header {
+  background-image: url('images/nzbackgroundwide2.png');
+  background-size: cover;
+  background-position:center;
+  width: 100%;
+}
+header p {
+  display: column;
+  text-align: center;
+
+  font-size: 14px;
+  color: #666666;
+}
+header a[href] {
+  font-size: 15px;
+  color: #3700ff;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f8f4f499;
+  border-radius: 10%;
+}
+footer {
+  background-image: url('images/nzbackgroundwide2.png');
+  background-size: cover;
+  background-position: bottom center;
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+  width: 100%;
+  padding: 30px;
+}
+div {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: block;
+  width: 100%;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+  margin: 10px;
+}
+
+footer{ p {
+  font-size: 10px;
+  color: #ffffff;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+ }
+}
+
+footer{ a[href] { 
+    font-size: 15px;
+    color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+      
+  }
+}
+p {
+  color: #333333;
+  line-height: 1.6;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+a:visited {
+  color: #0000009f;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+
+ a:hover {
+  color: #000000;
+  text-decoration: bold underline;
+  text-align: center;
+  margin: 20px;
+  padding: 15px;
+  background-image: url('images/kereru4.PNG');
+  background-size: cover;
+  background-position:center;
+}
+
+div.containera {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #0052297e;
+}
+
+div.containerb {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #2d6400bb;
+}
+
+div.containerc {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #51ff0077;
+}
+
+div.containerd {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #1e8b02;
+}
+div.containere {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #c8ff0077;
+}
+div.containerf {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #ffd90077;
+}
+
+div.containerp1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+  padding: 1px;
+  background-color: #2d500077;
+  flex-direction: column;
+}
+div.containerp2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+  padding: 1px;
+  background-color: #00fbff77;
+  flex-direction: column;
+}
+div.containerp3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+  padding: 1px;
+  background-color: #00ff1a8e;
+  flex-direction: column;
+}
+img.easteregg {
+  width: 30px;
+  height: auto;
+}
+button {
+  align-self: top left;
+  margin: 2px;
+}
