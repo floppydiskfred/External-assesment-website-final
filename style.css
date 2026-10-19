@@ -6,7 +6,7 @@ body {
     
 }
 header {
-  background-image: url('images/nzbackgroundwide2.png');
+  background-image: url('nzbackgroundwide2.png');
   background-size: cover;
   background-position:center;
   width: 100%;
@@ -27,7 +27,7 @@ header a[href] {
   border-radius: 10%;
 }
 footer {
-  background-image: url('images/nzbackgroundwide2.png');
+  background-image: url('nzbackgroundwide2.png');
   background-size: cover;
   background-position: bottom center;
   text-align: center;
@@ -93,7 +93,7 @@ a:visited {
   text-align: center;
   margin: 20px;
   padding: 15px;
-  background-image: url('images/kereru4.PNG');
+  background-image: url('kereru4.PNG');
   background-size: cover;
   background-position:center;
 }
